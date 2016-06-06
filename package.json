@@ -1,5 +1,6 @@
-node server.js
+
 {
+  "start": "node server.js",
   "name": "web-server",
   "version": "1.0.0",
   "description": "",
